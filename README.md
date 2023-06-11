@@ -1,5 +1,3 @@
-# cit281-p1
-
 # Project 1
 
 In this project, I have learned how to access the command-line interface (CLI) of my operating system. 
