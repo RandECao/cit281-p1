@@ -7,6 +7,7 @@ Utilizing the CLI is an incredibly valuable technical skill due to its convenien
 
 ### Skills Used in Project
  - Utilized the command line to create a well-organized folder structure
+
 ![im](images/p1-tree.png)
 
 
